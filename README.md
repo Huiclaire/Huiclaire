@@ -1,5 +1,3 @@
-# clairelin
-This is my personal repository
 <h3 align="left">Hi all I'm Claire Lin 👋</h1>
 <h3 align="left">🚀 A passionate full stack developer from Taiwan</h3>
 
