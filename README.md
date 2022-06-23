@@ -2,7 +2,7 @@
 <h3 align="left">🚀 A passionate full stack developer from Taiwan</h3>
 
 <p align="left">
-  After working in Art Investments and the Crypto field for 6 years, I become more interested in knowing all of the technologies behind web and app development, so I decided to shift my carrer path and join a 9 weeks Wev Development bootcamp with Le Wagon and now passionate about building creative and meaningful projects.
+  After working in Art Investments and the Crypto field for 6 years, I became more interested in knowing all of the technologies behind web and app development, so I decided to shift my carrer path by joining a 9 weeks Web Development Bootcamp with Le Wagon, and now I am lookingforwar to building creative and meaningful products.
 
 </P>
 
