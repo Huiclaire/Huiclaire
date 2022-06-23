@@ -2,7 +2,7 @@
 <h3 align="left">🚀 A passionate full stack developer from Taiwan</h3>
 
 <p align="left">
-Working as a journalist in the crypto industry for two years, I became more interested in knowing all of the technologies behind web and app development, so I decided to join a 9 weeks web development bootcamp with Le Wagon. Now I am a certified full stack developer looking forward to building creative and meaningful products.
+Working as a journalist in the crypto industry for two years, I became more interested in knowing all of the technologies behind web and app development. After a 9 weeks intensive web development bootcamp with Le Wagon, I now have a solid understanding and am equipped with all the tools and technologies of a full stack web developer. I understand this as the first step of a much longer journey and I would be happy to learn new things onboard new languages on my way.
 
 </P>
 
