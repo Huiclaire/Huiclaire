@@ -3,7 +3,7 @@
 
 <p align="left">
 Working as a journalist in the crypto industry for two years, I became more interested in knowing all of the technologies behind web and app development. After 9 weeks of intensive web development bootcamp with Le Wagon, I now have a solid understanding of and am equipped with all the tools and technologies of a full stack web developer.<br> 
-I like to see this as the first step of a much longer journey and I would be happy to learn new things onboard new languages on my way.
+I like to see this as the first step of a much longer journey and I am excited to learn new things and onboard new languages on my way.
 
 </P>
 
