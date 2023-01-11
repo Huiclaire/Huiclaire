@@ -14,7 +14,7 @@ This career change decision is driven by my desire to become an active part of u
 
 - 💁🏻‍♀️ Check out my latest project "[FusioVan](https://fusiovan.herokuapp.com/)" 
 
-- 📫 How to reach me: [LinkdeIn](https://www.linkedin.com/in/clairechlin/) OR **chunhuilin7516@gmail.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clairechlin/) OR **chunhuilin7516@gmail.com**
 
 - ⚡ Fun fact about me: A world traveler, mountain cycler, a bookworm and an amateur gardener. 
 
