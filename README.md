@@ -15,7 +15,8 @@ I like to see this as the first step of a much longer journey and I am excited t
 
 - 📫 How to reach me: **https://www.linkedin.com/in/clairechlin/** OR **chunhuilin7516@gmail.com**
 
-- ⚡ Fun fact **in love with cycling and surfing**
+- ⚡ Fun fact about me: A world traveler, mountain cycler, a bookworm and an amateur gardener. 
+
 <p align="left">
 </p>
 
