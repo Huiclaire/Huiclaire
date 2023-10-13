@@ -1,22 +1,21 @@
 <h3 align="left">Hi, I'm Claire Lin 👋</h1>
-<h3 align="left">🚀 A passionate full stack developer from Taiwan</h3>
+<h3 align="left">🚀 A Taiwanese full-stack developer based in Berlin</h3>
 
 <p align="left">
-After 4 years of work experience in the art industry, I transitioned into the crypto industry, which led me to join a full-stack web development bootcamp and move to Germany.
-
+After four years of work experience in the art industry, I transitioned into the crypto industry, which led me to join a full-stack web development bootcamp. 
 This career change decision is driven by my desire to become an active part of using technology to help create value for the world we live in.
 
 </P>
 
-- 💃🏻 I’m currently looking to building creative projects with a team that I can learn alongside and share with.
+- 💃🏻 I’m currently looking to build creative projects with a team that I can learn alongside and share with.
 
 - 👉🏼 Here is my [portfolio](https://www.clairelin.me/)
 
 - 💁🏻‍♀️ Check out my latest project "[FusioVan](https://fusiovan.herokuapp.com/)" 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clairechlin/) OR **chunhuilin7516@gmail.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clairechlin/) OR **chlin@riseup.net**
 
-- ⚡ Fun fact about me: A world traveler, mountain cycler, a bookworm and an amateur gardener. 
+- ⚡ Fun fact about me: A world traveler, mountain cycler, bookworm, and amateur gardener. 
 
 <p align="left">
 </p>
