@@ -1,5 +1,5 @@
 <h3 align="left">Hello, I'm Claire 👋</h3>
-<h3>I'm a full-stack developer based in Berlin.</h3>
+<h3>I'm a front-end developer based in Berlin.</h3>
 
 <p align="left">
 After four years of work experience in the art industry, I transitioned into the crypto industry, which led me to join a full-stack web development bootcamp. 
