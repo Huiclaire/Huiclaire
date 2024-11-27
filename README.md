@@ -1,4 +1,4 @@
-<h3 align="left">Hello, I'm Claire 👋</h3>
+<h3 align="left">Hi, I'm Claire!</h3>
 <h3>I'm a front-end developer based in Berlin.</h3>
 
 <p align="left">
