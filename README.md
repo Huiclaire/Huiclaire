@@ -14,7 +14,7 @@ In my free time, I enjoy cycling, reading, gardening, and taking walks with my c
 
 - 💃🏻 I’m looking to build creative projects with a team that I can learn alongside and share with.
 
-- 👉🏼 Here is my [portfolio](https://huiclaire.github.io/portfolio-website-claire/)
+- 👉🏼 Here is my [portfolio](https://clairelin.me)
 
 - 📫 Reach me at **chlin@riseup.net** OR on [LinkedIn](https://www.linkedin.com/in/clairechlin/) 
 
